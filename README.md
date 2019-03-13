@@ -16,3 +16,4 @@ Installing:
     Download the latest version from here.
     Replace thesnkrsbot.exe with the one you got from step 1.
     Enjoy!
+
